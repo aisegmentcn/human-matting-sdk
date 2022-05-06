@@ -25,4 +25,4 @@ Android demo。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com
 3）iOS版本，适合图片类手机应用。待发布   
 # 获取SDK的License文件
 添加企业微信或者发邮件到 bd@wonxing.com   
-![Image text](https://github.com/aisegmentcn/matting_human_datasets/blob/master/wx.jpg)
+![Image text](https://github.com/aisegmentcn/human-matting-sdk/blob/main/wechat.png)
