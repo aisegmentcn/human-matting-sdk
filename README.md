@@ -25,5 +25,5 @@ Android demo。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com
 2）Android版本，适合图片类手机应用。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_human_seg/3.0.0/wx_human_seg_3.0.0_Android.zip)  [下载免费版](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_human_seg/3.0.0/wx_human_seg_free_3.0.0_Android.zip)   
 3）iOS版本，适合图片类手机应用。待发布   
 # 获取SDK的License文件
-添加企业微信或者发邮件到 bd@wonxing.com   
+添加企业微信或者发邮件到 b@wonxing.com   
 ![Image text](https://github.com/aisegmentcn/human-matting-sdk/blob/main/wechat.png)
