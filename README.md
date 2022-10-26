@@ -3,7 +3,7 @@
 SDK包括免费版和收费版。免费版对输出图片/视频分辨率有一定限制，且只输出合成图，不输出alpha图。其他跟收费版完全相同。   
 # DEMO
 #### 视频人像分割   
-1）Windows demo（需摄像头）。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_video_seg_sdk/1.2.0/windows/demo/lh320_demo_windows_1.2.0.zip)   
+1）Windows demo（需摄像头）。[下载](https://download-cdn.aisegment.com/sdk/wx_video_seg_sdk/1.2.0/windows/demo/lh320_demo_windows_1.2.2.zip)   
 2）Android实时demo（主流手机上大于25FPS）。[下载半身人像优化版](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_video_seg_demo/wxvideoseg_small_half_camera.apk)   [下载通用版](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_video_seg_demo/wxvideoseg_small_full_camera.apk)   
 3）Android非实时demo（主流手机上大于10FPS）。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_video_seg_demo/wxvideoseg_large_full_local_video.apk)   
 #### 人像抠图Matting
