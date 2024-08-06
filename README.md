@@ -22,7 +22,7 @@ Android demo。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com
 #### 人像抠图Matting
 1）Windows版本，适合PC端图像处理应用。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_human_seg/3.0.0/wx_human_seg_3.0.0_windows.zip)   
 2）Mac版本，适合PC端图像处理应用。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_human_seg/3.0.0/wx_human_seg_3.0.0_osx.zip)   
-2）Android版本，适合图片类手机应用。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_human_seg/3.0.0/wx_human_seg_3.0.0_Android.zip)  [下载免费版](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_human_seg/3.0.0/wx_human_seg_free_3.0.0_Android.zip)   
+2）Android版本，适合图片类手机应用。[下载](https://download-1251830310.cos.ap-shanghai.myqcloud.com/sdk/wx_human_seg/3.0.0/wx_human_seg_3.0.0_Android.zip)   
 3）iOS版本，适合图片类手机应用。待发布   
 # 获取SDK的License文件
 添加企业微信或者发邮件到 b@wonxing.com   
